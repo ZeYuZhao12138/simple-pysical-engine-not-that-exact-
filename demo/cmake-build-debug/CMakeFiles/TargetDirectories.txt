@@ -1,0 +1,3 @@
+/Users/zhao.zeyu/Desktop/c++程序/demo/cmake-build-debug/CMakeFiles/demo.dir
+/Users/zhao.zeyu/Desktop/c++程序/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhao.zeyu/Desktop/c++程序/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
